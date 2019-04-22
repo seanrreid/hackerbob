@@ -29,5 +29,15 @@ The each do the following:
 * Images of Bob's BASIC code are in the `assets/` directory.
 * We're going to edit the code to find the proper access combination!
 
+### The example on its own is fairly silly. 
 
-### FORKED BY: Sean Reid on April 22nd 2019
+The nested FOR loops just make sure you entered four digits, 0-9. 
+THEN, that four digit password is compared to a password in a function we don't see.S
+
+We want to "brute force" password check. So, we're going to change this a
+lot!
+
+See task.md for instructions on the process
+
+
+#### FORKED BY: Sean Reid on April 22nd 2019
